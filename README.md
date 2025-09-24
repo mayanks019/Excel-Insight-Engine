@@ -1,3 +1,5 @@
+Excel Insight Engine
+
 “I noticed that Excel is used everywhere for data, but when datasets are large, manually exploring them for insights like outliers, trends, or correlations becomes very time-consuming.”
 
 “My goal was to build a tool that could automatically analyze Excel files, generate insights, and save analysts from doing repetitive manual exploration.”
